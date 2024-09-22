@@ -1,4 +1,4 @@
-# Random_Forest
+# Logistic_Regression
 
 Here, you can find all study material with code related to K-Means Clustering. Topics Covered:
 
