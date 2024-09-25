@@ -1,6 +1,6 @@
 # Logistic_Regression
 
-Here, you can find all study material with code related to K-Means Clustering. Topics Covered:
+Here, you can find all study material with code related to Logistic Regression. Topics Covered:
 
 1. Where we can use Logistic Regression
 2. Logistic Regression vs Linnear Regression
