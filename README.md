@@ -8,6 +8,6 @@ Here, you can find all study material with code related to Logistic Regression. 
 4. Sigmoid Function in Logistic Regression
 5. Explanation with 'SUV Data Analysis' dataset
 6. Explained all Hyperparameters of Logistic Regression
-7. All Metrices used in Linear Regression
+7. All Metrices used in Logistic Regression
 8. Explaining AUC-ROC Curve
 9. Predict the Output
